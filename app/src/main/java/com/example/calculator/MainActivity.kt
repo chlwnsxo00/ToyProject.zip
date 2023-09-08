@@ -73,7 +73,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun numberButtonClickeed(number : String){
-
         if(isOperator){
             expressiontTextView.append(" ")
         }

@@ -285,7 +285,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         android:background="@color/backgroundWhite"
         android:visibility="gone"
-        tools:visibility="gone"
+        tools:visibility="true"
         >
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/closeButton"
